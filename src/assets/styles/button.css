@@ -1,0 +1,10 @@
+.buttonFig{
+    width: 166px;
+    height: 166px;
+}
+
+.buttonFig:hover{
+    border: 5px solid yellow;
+    transition: .2s;
+    cursor: pointer;
+}
